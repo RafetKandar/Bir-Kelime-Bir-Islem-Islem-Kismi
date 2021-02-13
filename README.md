@@ -12,7 +12,7 @@
 ![CSharp-Form---Bir-Kelime-Bir-Islem---Kelime-Kismi](Manuel_Trim.gif)
 
 <ul>
-  <li>Uygulama Tarafında Sayıların Random Olarak Verilmesi</li> </br>
+  <li>Uygulama Tarafında Sayıların Random Olarak Verilmesi <strong> ( Random Numbers on the Application ) <strong> </li> </br>
 </ul>  
 
 ![CSharp-Form---Bir-Kelime-Bir-Islem---Kelime-Kismi](Random_Trim.gif)
